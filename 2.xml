@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="istenenmethodlaricalistir">
+
+    <test name="istetentestmethodlarini" >
+
+        <classes>
+            <class name="Tests.Test04_AmazonSatirSutunSayisi">
+
+                <methods>
+                    <include name="satirsayisi"></include>
+                </methods>
+            </class>
+            
+            <class name="Tests.Test05Amazonhucretesti">
+                <methods>
+                    <include name="amazonyazisi"></include>
+                </methods>
+            </class>
+
+
+
+        </classes>
+
+
+    </test>
+
+
+
+
+
+
+
+</suite>

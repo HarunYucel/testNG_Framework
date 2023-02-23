@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="testraporu icin calistir"    >
+    
+    <test name="test raporu ve paralel test">
+        <classes>
+            <class name="Tests.Test06_Testbaserapor"></class>
+        </classes>
+
+    </test>
+
+</suite>

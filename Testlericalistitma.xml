@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Testsi calistirma">
+
+    <test name="tumtesticalistir">
+        <packages>
+            <package name="Tests.*"></package>
+        </packages>
+
+    </test>
+
+   
+
+
+
+</suite>

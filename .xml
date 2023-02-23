@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="tekrar toplutestcalistir">
+    
+    <test name="istenen claslari calistir">
+        <classes>
+            <class name="Tests.Test01_pageclassKullanma"></class>
+            <class name="Tests.Test02_pageskullanim"></class>
+            <class name="Tests.Test03NegativePostvTest"></class>
+            <class name="Tests.Test04_AmazonSatirSutunSayisi"></class>
+            
+        </classes>
+
+        
+        
+        
+    </test>
+    
+    
+    
+    
+    
+    
+</suite>
